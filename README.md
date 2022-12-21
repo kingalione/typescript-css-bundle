@@ -1,3 +1,6 @@
+# Following the instructions from
+https://stackoverflow.com/questions/46075993/how-to-include-a-css-file-in-react-and-typescript-npm-package
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
